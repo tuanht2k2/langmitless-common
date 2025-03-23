@@ -7,4 +7,5 @@ public class AiSearchCourseRequest {
     private String cost;
     private Byte level;
     private String language;
+    private String dialogResponse;
 }
